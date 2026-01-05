@@ -62,7 +62,7 @@ To create a job through VS Code, you must configure it to point to your instance
 1. Determine your REST API URL
     - For QSE environments, use `https://localhost:9714/streams/resources`
     - For product install environments, use the output of `streamtool geturl --api`
-1. Open the Streams Explorer (click the Streams logo on the left sidebar)
+1. Click the :teracloud-streams: (Streams Explorer) icon in the Activity Bar
 1. Click the `Add Domain` button
 1. Enter the REST API URL
 1. Enter your username

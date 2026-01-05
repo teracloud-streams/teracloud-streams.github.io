@@ -2,15 +2,15 @@ site_name: Teracloud Streams Developer Tools
 site_description: Documentation and resources for using the Teracloud Streams VS Code extension and Quick Start Edition container.
 site_author: Teracloud ApS
 
-site_url: https://dev.streams.teracloud.com/
+site_url: https://teracloud-streams.github.io/
 
-copyright: Copyright &copy; 2025 Teracloud ApS
+copyright: Copyright &copy; 2025, 2026 Teracloud ApS
 
 extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/teracloud-streams/vscode-extension
+      link: https://github.com/teracloud-streams/teracloud-streams.github.io
     - icon: fontawesome/solid/link
       link: https://streams.teracloud.com
     - icon: fontawesome/solid/paper-plane
@@ -113,11 +113,26 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting Started:
-      - quickstart/index.md
-      - Stream application basics: quickstart/basics.md
-      - Distributed applications: quickstart/distributed-apps.md
-#  - VS Code Extension:
-#      - vscode/index.md
+      - gettingstarted/index.md
+      - Stream application basics: gettingstarted/basics.md
+      - Distributed applications: gettingstarted/distributed-apps.md
+  - VS Code Extension:
+      - vscode/index.md
+      - Configuring the extension: vscode/configuring-paths.md
+      - Developing applications:
+        - Creating an application or project: vscode/spl-project-application.md
+        - Language server features: vscode/spl-language-features.md
+        - Building applications: vscode/building.md
+        - Running standalone: vscode/running-standalone.md
+        - Advanced topics:
+          - Developing custom operators: vscode/advanced/custom-operators.md
+      - Interacting with a runtime environment:
+        - Connecting to a runtime environment: vscode/configuring-domain.md
+        - Administering instances: vscode/administering-instances.md
+        - Running distributed applications: vscode/running-distributed.md
+      - Reference:
+        - License ⮺: https://marketplace.visualstudio.com/items/teracloud-aps.teracloud-streams/license
+        - Feedback ⮺: https://github.com/teracloud-streams/vscode-extension/issues
   - Blog:
       - blog/index.md
 

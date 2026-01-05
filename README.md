@@ -2,7 +2,7 @@
 
 This repository contains supplementary developer documentation and a blog built using [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
-See the published documentation here.
+See the published documentation [here](https://teracloud-streams.github.io/).
 
 ## Building the doc
 

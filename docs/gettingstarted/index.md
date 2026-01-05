@@ -45,7 +45,8 @@ flowchart TD
 <div class="grid cards" markdown>
 
 - :material-pencil:  [More tutorials](https://doc.streams.teracloud.com/com.ibm.streams.tutorials.doc/doc/tut-container.html)
-- :fontawesome-solid-exchange:  [Data Exchange](https://doc.streams.teracloud.com/com.ibm.streams.dev.doc/doc/enabling-streams-data-exchange.html)
+- :fontawesome-solid-exchange:   [Data Exchange](https://doc.streams.teracloud.com/com.ibm.streams.dev.doc/doc/enabling-streams-data-exchange.html)
 - :material-feature-search:  [More SPL features](https://doc.streams.teracloud.com/com.ibm.streams.dev.doc/doc/spl_features.html)
 - :material-tools:  [Available toolkits](https://doc.streams.teracloud.com/com.ibm.streams.toolkits.doc/spldoc/dita/toolkits/toolkits.html)
+- :fontawesome-solid-play:  [Sample applications](https://github.com/teracloud-streams/samples)
 </div>

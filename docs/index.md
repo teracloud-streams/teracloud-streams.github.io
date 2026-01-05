@@ -11,28 +11,29 @@ Welcome to the **Teracloud Streams Developer Tools** site — your hub for getti
 
 This site is a companion to the [official Teracloud Streams product documentation](https://doc.streams.teracloud.com) and focuses specifically on:
 
-- **Quick Start Edition Container** — run Streams locally with minimal setup  
-<!--- **VS Code Extension** — develop and manage Streams apps directly from your IDE  -->
+- **Development Quick Start** — learn concepts, set up a development and runtime environment, and try out your first application
+- **VS Code Extension** — develop and manage Streams apps directly from your IDE
 - **Blog** — updates, insights, and best practices  
 
 ---
 
 ## Get Started
 
-### Quick Start Container
-Run Teracloud Streams locally in minutes using the Quick Start container. Perfect for evaluation, experimentation, or lightweight development.  
+### Developing Streams applications
+Learn stream application concepts, set up a Streams development and runtime environment, and try out your first application.
+You can run Teracloud Streams locally in minutes using the Quick Start container - perfect for evaluation, experimentation, or lightweight development.
 
-👉 [Quick Start Guide](quickstart/index.md)
+👉 [Getting Started Guide](gettingstarted/index.md)
 
 ---
-<!--
+
 ### Visual Studio Code Extension
-Integrate Streams development into your workflow with syntax highlighting, job submission, and instance management right inside VS Code.  
+Integrate Streams development into your workflow with syntax highlighting, job submission, and instance management right inside VS Code.
 
 👉 [VS Code Extension](vscode/index.md)
 
 ---
--->
+
 ### Blog & Updates
 Stay informed with the latest posts about Streams tools, new features, and tips from the Teracloud team.  
 
