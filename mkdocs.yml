@@ -19,6 +19,9 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
+extra_head:
+  - <meta name="google-site-verification" content="xUCXmH1CEE0tQnufjjHfa6UoRbyQB0I4sNrUOV6VATM" />
+
 theme:
   name: material
   favicon: assets/favicon.png
