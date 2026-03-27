@@ -9,8 +9,7 @@ categories:
 tags:
   - Teracloud Streams
 links:
-  - Homepage: index.md
-  - Blog index: blog/index.md
+  - Streams Website: https://streams.teracloud.com
 ---
 
 # Welcome to the Teracloud Streams Blog

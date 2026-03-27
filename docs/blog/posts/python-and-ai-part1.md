@@ -13,8 +13,8 @@ tags:
   - Streams 7.2
   - PythonOp
 links:
-  - Homepage: index.md
-  - Blog index: blog/index.md
+  - Streams Website: https://streams.teracloud.com
+  - Streams GitHub: https://github.com/teracloud-streams
 ---
 
 # Python and AI Series Part 1 - Introduction to PythonOp

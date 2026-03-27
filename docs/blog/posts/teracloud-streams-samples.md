@@ -10,8 +10,8 @@ categories:
 tags:
   - Teracloud Streams
 links:
-  - Homepage: index.md
-  - Blog index: blog/index.md
+  - Streams Website: https://streams.teracloud.com
+  - Streams GitHub: https://github.com/teracloud-streams
 ---
 
 # Teracloud Streams Samples

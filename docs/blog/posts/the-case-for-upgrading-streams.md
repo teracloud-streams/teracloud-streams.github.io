@@ -14,8 +14,7 @@ tags:
   - Security
   - Migration
 links:
-  - Homepage: index.md
-  - Blog index: blog/index.md
+  - Streams Website: https://streams.teracloud.com
 ---
 
 # Secure, Scalable, Supported: The Value of Upgrading to Teracloud Streams 7.2
